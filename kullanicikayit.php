@@ -8,6 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+    <a href="https://github.com/dideozguven/PHP-MYSQL-project">Github Linki</a>
     <div class="container">
         <?php
         require('sqlbaglanti.php');
